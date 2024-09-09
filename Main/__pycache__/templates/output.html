@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Medical Plant Identification</title>
+    <style>
+      body {
+        margin: 0;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: url("/static/Image/bg/Background.jpg");
+      }
+
+      .container {
+        width: 800px;
+        height: fit-content;
+        background: #cabdbd;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        background: rgba(255, 255, 255, 0.2);
+        box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+        backdrop-filter: blur(8px);
+        -webkit-backdrop-filter: blur(7px);
+        border-radius: 20px;
+        border: 1px solid rgba(255, 255, 255, 0.18);
+      }
+
+      ul p {
+        font-size: 20px;
+      }
+      .con {
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin-left: 25px;
+      }
+
+      .ima {
+        padding-top: 15px;
+        width: 250px;
+        height: 250px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <img
+        class="ima"
+        src="{{url_for('static',filename=data['img'])}}"
+        alt="{{data['name']}}"
+      />
+      <h1>Name : {{data['name']}}</h1>
+      <h2>Botanical Name : {{data['botanicalName']}}</h2>
+      <div class="con">
+        <h2>Uses :</h2>
+        <ul>
+          {% for name in data['uses'] %}
+          <li><p>{{name}}</p></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
