@@ -1,0 +1,762 @@
+[
+  {
+    "id": 1,
+    "name": "Aloevera",
+    "botanicalName": "Aloe barbadensis miller",
+    "img": "Image/Show/Aloevera.png",
+    "uses": [
+      "Skin Care: Aloe vera gel is commonly used as a skin care product to moisturize and soothe skin, especially for treating sunburns, minor burns, and skin irritations. It is also an ingredient in various cosmetics and skin lotions",
+      "Wound Healing: Due to its anti-inflammatory and cooling properties, Aloe vera is effective in healing cuts, wounds, and minor skin infections. It accelerates skin repair by promoting new skin cell growth."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Amla",
+    "botanicalName": "Phyllanthus emblica",
+    "img": "Image/Show/Amla.png",
+    "uses": [
+      "Nutritional Supplement: Amla is a rich source of Vitamin C, and it is often taken as a dietary supplement to boost immunity and improve overall health.",
+      "Hair Care: Amla oil is commonly used to nourish the scalp, strengthen hair follicles, and promote hair growth. It is also believed to reduce premature pigment loss from hair, or greying."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Amruthaballi",
+    "botanicalName": "Tinospora cordifolia",
+    "img": "Image/Show/Amruthabali.png",
+    "uses": [
+      "Immune Booster: Giloy is renowned for its immunomodulatory properties. It is often used to boost the immune system and fight off infections.",
+      "Treatment of Chronic Fever: Traditionally, it has been used to reduce fever and ease the symptoms of life-threatening fevers like dengue, malaria, and swine flu."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bamboo",
+    "botanicalName": "Bambusoideae",
+    "img": "Image/Show/Bamboo.jpg",
+    "uses": [
+      "Respiratory Disorders: As the common name suggests, it is often used in traditional medicine to treat asthma. It is believed to help in dilating the bronchioles and reducing the frequency of asthma attacks.",
+      "Digestive Health: The plant is used to treat gastrointestinal disorders such as dysentery, diarrhea, and intestinal parasites."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Badipala",
+    "botanicalName": "Wrightia tinctoria",
+    "img": "Image/Show/Badipala.jpg",
+    "uses": [
+      "Skin Disorders: It is used in traditional medicine to treat various skin diseases.",
+      "Diabetes: Some traditional medicinal systems use it to help manage diabetes."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Balloon Vine",
+    "botanicalName": "Ventilago maderaspatana",
+    "img": "Image/Show/Balloon Vine.jpg",
+    "uses": [
+      "Skin Disorders: It is used in traditional medicine to treat various skin diseases.",
+      "Diabetes: Some traditional medicinal systems use it to help manage diabetes."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Betel",
+    "botanicalName": "Piper betle",
+    "img": "Image/Show/Betel.png",
+    "uses": [
+      "Chewing for Oral Hygiene and Digestion: The leaves of the betel plant are commonly chewed along with areca nut and sometimes with tobacco",
+      "Medicinal Uses:  Betel leaves have been used in traditional medicine for their supposed health benefits"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Beans",
+    "botanicalName": "Phaseolus",
+    "img": "Image/Show/Beans.jpg",
+    "uses": [
+      "Culinary Uses: Beans are a staple food in many cultures around the world, appreciated for their high protein content, dietary fiber, and complex carbohydrates. They are used in a multitude of dishes, from salads and soups to stews and side dishes.",
+      "Nutritional Value: Beans are a great source of vitamins and minerals, including iron, zinc, magnesium, and folate. They are also low in fat and contain no cholesterol, making them a healthy dietary choice."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Bhrami",
+    "botanicalName": "Bacopa monnieri",
+    "img": "Image/Show/Bhrami.jpg",
+    "uses": [
+      "Cognitive Enhancement: Brahmi is most well-known for its cognitive benefits. It is often used to improve memory, learning rates, and visual information processing. Studies suggest it might enhance cognitive abilities by reducing anxiety, which aids in overall mental performance.",
+      "Antioxidant Properties: The herb has strong antioxidant properties that help in protecting against cellular damage caused by free radicals. This is believed to contribute to its neuroprotective effects."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Bringaraja",
+    "botanicalName": "Eclipta prostrata",
+    "img": "Image/Show/Bringaraja.jpg",
+    "uses": [
+      "Promoting Hair Growth: Bhringaraj is most famously used for promoting hair growth. It is believed to prevent hair loss, premature graying, and strengthen the hair roots. Oils infused with Bhringaraj are commonly applied to the scalp to nourish the hair.",
+      "Liver Health: The herb is used in Ayurvedic medicine to treat liver disorders such as hepatitis and cirrhosis. It is believed to have a detoxifying effect on the liver and improve its function."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Caricature",
+    "botanicalName": "Graptophyllum pictum",
+    "img": "Image/Show/Caricature.jpg",
+    "uses": [
+      "Improving Digestion: The herb is also used to enhance digestion, treat bowel problems, and improve overall gastrointestinal health. It is believed to stimulate digestion and has been used to treat dyspeathy (digestive disorders).",
+      "General Tonic: In Ayurvedic medicine, Bhringaraj is often considered a powerful liver tonic, which can improve energy and vitality. It's used as a rejuvenator for improving vigor, stamina, and overall health."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Castor",
+    "botanicalName": "Ricinus communis",
+    "img": "Image/Show/Castor.jpg",
+    "uses": [
+      "Moisturizing Properties: Castor oil is rich in fatty acids, which help moisturize and nourish the skin, making it a popular ingredient in skincare products.",
+      "Liver Health: The herb is used in Ayurvedic medicine to treat liver disorders such as hepatitis and cirrhosis. It is believed to have a detoxifying effect on the liver and improve its function."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Catharanthus",
+    "botanicalName": "Catharanthus roseus",
+    "img": "Image/Show/Catharanthus.jpg",
+    "uses": [
+      "Container Gardening: It is also commonly used in containers and flowerbeds where its continuous flowering and neat growth habits add color and interest.",
+      "Cancer Treatment: The most significant use of Catharanthus roseus lies in its medicinal properties. It contains alkaloids such as vincristine and vinblastine, which are used in pharmaceutical drugs to treat various types of cancer, including leukemia and Hodgkin’s lymphoma. These alkaloids have been shown to inhibit cell division, which is crucial in the treatment of cancer. "
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Chakte",
+    "botanicalName": "Caesalpinia platyloba",
+    "img": "Image/Show/Chakte.jpg",
+    "uses": [
+      "Fine Woodworking and Furniture: Both types of Chakte wood are highly valued in fine woodworking due to their color, workability, and finish. The wood is typically used for high-end furniture, cabinetry, and other decorative woodworking projects.",
+      "Musical Instruments: The density and tonal qualities of Chakte wood make it suitable for musical instruments, including guitars and other stringed instruments. "
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Chilly",
+    "botanicalName": "Capsicum spp",
+    "img": "Image/Show/Chilly.jpg",
+    "uses": [
+      "Ornamental Plants: Some chili peppers, particularly those with bright, colorful fruits, are grown as ornamental plants. The vibrant reds, oranges, yellows, and even purples can add aesthetic value to gardens.",
+      "Nutritional Value: Chili peppers are high in vitamins A and C, as well as bioflavonoids, which help the immune system. They also contain antioxidants, which are beneficial for health. "
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Citron lime (herelikai)",
+    "botanicalName": "Citrus medica",
+    "img": "Image/Show/Citron lime (herelikai).jpg",
+    "uses": [
+      "Culinary Uses: The thick, aromatic peel of the citron is highly valued, especially in Mediterranean and Middle Eastern cuisines. It is often candied to make a sweet treat or used as zest in baking and cooking to add flavor to dishes. The juice, although less commonly used than the zest, can also be utilized in cooking and beverages for its acidic properties.",
+      "Religious and Cultural Uses: Citron is particularly famous for its use in Jewish religious practice during the Sukkot festival. The fruit, known as 'etrog' in Hebrew, is an important part of the rituals and is selected based on very specific characteristics of purity and appearance"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Coffee",
+    "botanicalName": "Coffea arabica",
+    "img": "Image/Show/Coffee.jpg",
+    "uses": [
+      "Beverage Production: The primary use of coffee is for the preparation of the beverage coffee, which is one of the most popular drinks worldwide. Coffee beans are roasted, ground, and brewed to produce a stimulating drink rich in caffeine.",
+      "Culinary Uses: Coffee is also used in various culinary preparations. It can be found in desserts like tiramisu, coffee cake, and ice cream. Coffee is also used as a flavor enhancer in sauces and marinades, and its acidity can tenderize meat effectively."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Common rue(naagdalli)",
+    "botanicalName": "Ruta graveolens",
+    "img": "Image/Show/Common rue(naagdalli).jpg",
+    "uses": [
+      "Medicinal Uses: Traditionally, rue has been used in various folk and herbal medicines. It has been believed to possess a range of properties, including anti-spasmodic, anti-inflammatory, and antifungal activities. ",
+      "Insecticidal and Repellent Uses: Rue has been used as a natural insect repellent and insecticide. It can deter pests like flies and mosquitoes when planted in a garden or when extracts are applied to the skin. "
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Coriender",
+    "botanicalName": "Coriandrum sativum",
+    "img": "Image/Show/Coriender.jpg",
+    "uses": [
+      "Medicinal Uses: Coriander seeds and oil have traditionally been used for their digestive, anti-inflammatory, and antispasmodic properties. They are believed to help with digestion, relieve flatulence, and could be soothing during bouts of an upset stomach.",
+      "Culinary Uses: Seeds: Coriander seeds are used as a spice, either whole or ground, and are a staple in many types of cuisine, including Indian, Middle Eastern, and Latin American. They have a warm, earthy, and slightly citrusy flavor."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Curry",
+    "botanicalName": "Murraya koenigii",
+    "img": "Image/Show/Curry.jpg",
+    "uses": [
+      "Culinary Uses: Curry leaves are highly aromatic and are a staple in Indian and Sri Lankan cooking. They are used to flavor many dishes, including curries, soups, and stews.",
+      "Medicinal Uses: Anti-diabetic Properties: Curry leaves are believed to help in managing blood sugar levels."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Doddpathre",
+    "botanicalName": "Coleus amboinicus.",
+    "img": "Image/Show/Doddpathre.png",
+    "uses": [
+      "Culinary Uses: The leaves of the Doddapathre have a strong, pungent aroma reminiscent of oregano or thyme and are used in cooking to flavor various dishes. It is especially popular in Indian and Caribbean cuisines.",
+      "Medicinal Uses: In traditional medicine, the leaves are used to treat coughs, colds, and asthma. The juice from the leaves is sometimes taken as a remedy for sore throats and nasal congestion."
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Drumstick",
+    "botanicalName": "Moringa oleifera.",
+    "img": "Image/Show/Drumstick.jpg",
+    "uses": [
+      "Nutritional Supplement: Moringa leaves are highly nutritious, rich in vitamins A, C, and E, calcium, potassium, and protein. They are used in various forms such as fresh leaves, dried and powdered, or as supplements",
+      "Culinary Uses: Moringa seeds can be pressed to extract edible oil known as Ben oil, which is clear, sweet, and odorless, and resistant to rancidity, making it valuable for cooking."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Ekka",
+    "botanicalName": "Alstonia scholaris",
+    "img": "Image/Show/Ekka.jpg",
+    "uses": [
+      "Medicinal Uses: The bark of Alstonia scholaris is commonly used in traditional medicine systems across Asia, particularly in Ayurveda and traditional Chinese medicine. It is known for its antipyretic (fever-reducing) properties and is also used to treat malaria and chronic respiratory conditions.",
+      "Educational and Writing Materials: Historically, the soft wood of the Alstonia scholaris tree was used to make blackboards for schools, which is one of the reasons behind its common name, the Blackboard tree."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Eucalyptus",
+    "botanicalName": "Eucalyptus spp",
+    "img": "Image/Show/Eucalyptus.jpg",
+    "uses": [
+      "Medicinal Uses: Eucalyptus leaves are a primary source of eucalyptus oil, which is extracted through steam distillation. This oil is rich in cineole (also known as eucalyptol), which has antiseptic, anti-inflammatory, and decongestant properties. ",
+      "Timber and Paper Production: Eucalyptus wood is hard and dense, making it a valuable resource for construction and furniture making. It's also highly regarded for its use in pulp and paper manufacturing, especially for producing high-quality paper products"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Ganike",
+    "botanicalName": "Cleome gynandra",
+    "img": "Image/Show/Ganike.jpg",
+    "uses": [
+      "Culinary Uses: The young leaves and shoots of Cleome gynandra are edible and are often used in traditional dishes in various parts of Africa and Asia. They can be cooked similarly to spinach or other leafy greens, added to soups, stews, and sauces.",
+      "Medicinal Uses: Cleome gynandra has been utilized in traditional medicine systems across various cultures. It is reputed to have a range of medicinal properties, including anti-inflammatory, analgesic, antimalarial, and antimicrobial effects."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Gasagase",
+    "botanicalName": "Papaver somniferum",
+    "img": "Image/Show/Gasagase.jpg",
+    "uses": [
+      "Culinary Uses: Poppy seeds are widely used in baking and cooking. They add a nutty flavor and texture to bread, cakes, and pastries. They are also sprinkled on bagels and used in salad dressings",
+      "Medicinal Uses: In traditional medicine, poppy seeds are used to provide dietary fiber, which can aid digestion. They also contain oleic acid, a monounsaturated fatty acid that may help lower bad cholesterol levels."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Ginger",
+    "botanicalName": "Zingiber officinale",
+    "img": "Image/Show/Ginger.jpg",
+    "uses": [
+      "Culinary Uses: Poppy seeds are widely used in baking and cooking. They add a nutty flavor and texture to bread, cakes, and pastries. They are also sprinkled on bagels and used in salad dressings",
+      "Medicinal Uses: In traditional medicine, poppy seeds are used to provide dietary fiber, which can aid digestion. They also contain oleic acid, a monounsaturated fatty acid that may help lower bad cholesterol levels."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Globe Amarnath",
+    "botanicalName": "Gomphrena globosa",
+    "img": "Image/Show/Globe Amarnath.jpg",
+    "uses": [
+      "Culinary Uses: Though not as common as its ornamental use, the flowers of Globe Amaranth are sometimes used as edible garnishes or as ingredients in herbal teas.",
+      "Medicinal Uses: In traditional medicine, especially in the Caribbean and Latin America, Globe Amaranth is used for its supposed medicinal properties. It is often used in herbal remedies to treat conditions like cough, asthma, and dysentery. "
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Guava",
+    "botanicalName": "Psidium guajava",
+    "img": "Image/Show/Guava.jpg",
+    "uses": [
+      "Culinary Uses: Guava fruit is widely consumed both in fresh form and as processed products. The fruit can be eaten raw or used in a variety of dishes such as jams, jellies, juices, and desserts.",
+      "Medicinal Uses: Guava is highly nutritious, rich in vitamins C and A, folic acid, dietary fiber, and essential minerals such as potassium, magnesium, and copper."
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Henna",
+    "botanicalName": "Lawsonia inermis",
+    "img": "Image/Show/Henna.jpg",
+    "uses": [
+      "Natural Dye: Henna is also widely used as a natural hair dye. It imparts a reddish-brown color to the hair and is considered a healthier alternative to synthetic dyes because it also conditions and strengthens hair.",
+      "Medicinal Uses: Henna has antifungal and antibacterial properties, making it useful in treating scalp conditions such as dandruff and ringworm."
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Hibiscus",
+    "botanicalName": "Hibiscus rosa-sinensis",
+    "img": "Image/Show/Hibiscus.jpg",
+    "uses": [
+      "Cultural Significance: In many cultures, hibiscus flowers have symbolic meanings. For example, in Hawaii, it is often worn by women to indicate their relationship status – behind the left ear if taken, and behind the right if available.",
+      "Medicinal Uses: Although less commonly used for medicinal purposes than H. sabdariffa, the flowers and leaves of Hibiscus rosa-sinensis are used in some traditional medicines to treat ailments such as fever, hyperhidrosis (excessive sweating), and hair problems."
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Honge",
+    "botanicalName": "Pongamia pinnata",
+    "img": "Image/Show/Honge.jpg",
+    "uses": [
+      "Biofuel Production: One of the most notable uses of Honge is for biofuel production. The seeds of the Honge tree contain oil that can be processed into biodiesel. The non-edible oil extracted from the seeds is considered a promising source of biofuel due to its properties and because it does not compete with food crops.",
+      "Medicinal Uses: Traditional medicine systems use different parts of the Honge tree for their therapeutic properties. The oil has antiseptic, antiparasitic, and anti-inflammatory qualities and is used to treat skin diseases and wounds."
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Insulin",
+    "botanicalName": "Costus igneus",
+    "img": "Image/Show/Insulin.png",
+    "uses": [
+      "Nutritional Supplement: The plant is sometimes used as a dietary supplement, given its high antioxidant content, which is beneficial for general health.",
+      "Medicinal Uses: The leaves of Costus igneus are popularly used in folk medicine for managing diabetes. The common name insulin plant derives from its reputed effects on lowering blood sugar levels. The consumption of the leaves is believed to help produce similar effects to insulin in the human body, thus aiding in glucose metabolism."
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Jackfruit",
+    "botanicalName": "Artocarpus heterophylluss",
+    "img": "Image/Show/Jackfruit.jpg",
+    "uses": [
+      "Culinary Uses: The ripe fruit is sweet and can be eaten fresh or used in desserts. Its flavor is often described as a combination of fruits including apples, pineapples, mangoes, and bananas.",
+      "Medicinal Uses: Raditional medicine systems in some countries use parts of the jackfruit tree for various ailments. The root is believed to be beneficial in treating skin diseases, fever, and asthma.."
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Jasmine",
+    "botanicalName": "Jasminum",
+    "img": "Image/Show/Jasmine.jpg",
+    "uses": [
+      "Culinary Uses: Jasminum sambac flowers are used to flavor jasmine tea, which is especially popular in China. The flowers are either layered with tea leaves during the drying process or mixed with dried tea leaves to impart their fragrance.",
+      "Medicinal Uses: In traditional medicine, jasmine has been used to help with various ailments, including anxiety, insomnia, and pain. Its oil is sometimes used in aromatherapy to promote relaxation and reduce stress."
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Kohlrabi",
+    "botanicalName": "Brassica oleracea var. gongylodes",
+    "img": "Image/Show/Kohlrabi.jpg",
+    "uses": [
+      "Culinary Uses: Both the stem and the leaves of kohlrabi are edible. The stem has a mild, sweet flavor with a crisp, crunchy texture, somewhat reminiscent of a broccoli stem or apple but milder and sweeter. The leaves can be cooked and enjoyed similarly to kale or collard greens.",
+      "Nutritional Benefits: Kohlrabi is low in calories but rich in fiber, which is beneficial for digestive health. It also contains significant amounts of vitamin C, providing over 100% of the daily requirement in a single serving, which is great for boosting the immune system and enhancing skin health. Moreover, it offers good amounts of potassium, which helps in maintaining healthy blood pressure levels."
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Lantana",
+    "botanicalName": "Lantana camara",
+    "img": "Image/Show/Lantanajpg",
+    "uses": [
+      "Culinary Uses: Lantana is popular in gardens and parks due to its colorful flower clusters, which can include shades of yellow, red, orange, pink, and purple. These flowers bloom profusely and attract pollinators such as butterflies and bees, making Lantana a favorite among gardeners looking to support local wildlife.",
+      "Medicinal Uses: In traditional medicine, parts of the Lantana camara plant have been used to treat a variety of ailments. The leaves have been used for their antiseptic properties to treat wounds and skin infections. Additionally, some traditional practices have used Lantana to treat respiratory issues, fevers, and ulcers. It’s important to note, however, that Lantana should be used with caution in herbal medicine as it can be toxic to humans and animals when ingested."
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Lemon",
+    "botanicalName": "Citrus limon",
+    "img": "Image/Show/Lemon.jpg",
+    "uses": [
+      "Culinary Uses: Lemon juice and zest (the grated outer rind of the fruit) are used extensively in culinary applications worldwide to enhance the flavor of both sweet and savory dishes. Lemon is a key ingredient in recipes ranging from lemonade and other beverages to sauces, marinades, dressings, desserts, and seafood dishes.",
+      "Medicinal Uses: Lemons are very high in vitamin C, a vital antioxidant that helps protect cells from damaging free radicals. Vitamin C is important for the immune system and skin health."
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Lemongrass",
+    "botanicalName": "Cymbopogon citratus",
+    "img": "Image/Show/Lemongrass.jpg",
+    "uses": [
+      "Culinary Uses: Lemongrass is widely used in culinary applications, particularly in Thai, Vietnamese, and other Southeast Asian cuisines. It adds a fresh, lemony flavor to soups, curries, teas, and seafood dishes. It is also used in the preparation of herbal teas, either alone or blended with other herbs.",
+      "Medicinal Uses: Lemongrass essential oil is commonly used in aromatherapy for its ability to help relieve stress, anxiety, and depression."
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Malabar Nut",
+    "botanicalName": "Justicia adhatoda",
+    "img": "Image/Show/Malabar Nut.jpg",
+    "uses": [
+      "Herbal Remedies: The leaves are commonly used to make herbal syrups and tonics that help ease symptoms of cough and cold. These preparations are popular in many households across South Asia.",
+      "Medicinal Uses: The leaves of the Malabar Nut are highly valued for their effectiveness in treating respiratory ailments. They contain vasicine, a compound that acts as a bronchodilator, expectorant, and mucolytic. This makes it useful for treating colds, cough, bronchitis, and asthma."
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Malabar Spinach",
+    "botanicalName": "Basella alba",
+    "img": "Image/Show/Malabar Spinach.jpg",
+    "uses": [
+      "Culinary Uses: Malabar Spinach is primarily grown for its thick, fleshy leaves, which are used similarly to spinach. The leaves are rich in vitamins A and C, iron, and calcium. They can be eaten raw in salads or cooked in soups, stews, and stir-fries. The mild flavor and mucilaginous texture make them particularly good for thickening soups or stews.",
+      "Medicinal Uses: In traditional medicine, Malabar Spinach is used for its purported medicinal properties. It is believed to have cooling properties and is used as a remedy for digestive issues, inflammation, and as a mild laxative."
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Mango",
+    "botanicalName": "Mangifera indica",
+    "img": "Image/Show/Mango.jpg",
+    "uses": [
+      "Culinary Uses: Mangoes are widely consumed fresh and are cherished for their rich, sweet flavor and succulent texture.",
+      "Medicinal Uses: In traditional medicine systems like Ayurveda, parts of the mango tree, such as the bark, leaves, and fruit, are used for their health benefits. Mango leaves, for example, are used in treatments for diabetes and hypertension."
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Marigold",
+    "botanicalName": "Tagetes spp",
+    "img": "Image/Show/Marigold.jpg",
+    "uses": [
+      "Ornamental: Tagetes marigolds are widely used as ornamental plants in gardens due to their vibrant yellow, orange, and red flowers. They are popular in bedding displays and container gardens.",
+      "Pest Control: These marigolds are often planted in vegetable gardens to repel pests like nematodes and aphids. The roots and foliage emit substances that deter various insects and can protect nearby plants.."
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Mint",
+    "botanicalName": "Mentha",
+    "img": "Image/Show/Mint.jpg",
+    "uses": [
+      "Culinary Uses: Mint leaves are widely used in cuisines around the world, adding a fresh, vibrant flavor to dishes. They are a staple in salads, soups, sauces, and desserts.",
+      "Medicinal Uses: Mint is commonly used to soothe stomach issues and aid digestion. It is known to help relieve symptoms of irritable bowel syndrome (IBS) and other digestive discomforts."
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Neem",
+    "botanicalName": "Azadirachta indica",
+    "img": "Image/Show/Neem.jpg",
+    "uses": [
+      "Agricultural Uses: Neem oil and other extracts from the tree are used as natural pesticides and insecticides. They are non-toxic to birds, mammals, and beneficial insects like bees but are effective in controlling pests such as aphids and whiteflies.",
+      "Medicinal Uses: Neem oil, made from the seeds, is widely used in creams, soaps, and other skincare products for its antifungal, antibacterial, and anti-inflammatory properties. It is effective in treating acne, psoriasis, eczema, and other skin conditions."
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Nelavembu",
+    "botanicalName": "Andrographis paniculata",
+    "img": "Image/Show/Nelavembu.jpg",
+    "uses": [
+      "Research and Studies: Recent studies have explored its effectiveness in treating symptoms of upper respiratory infections and its potential benefits in reducing the severity and duration of colds. There is ongoing research into its broader antiviral properties, especially given global health challenges.",
+      "Medicinal Uses: Andrographis paniculata is most well-known for its potential to boost the immune system and help fend off colds and flu. It is often used at the first sign of cold symptoms."
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Nerale",
+    "botanicalName": "Syzygium cumini",
+    "img": "Image/Show/Nerale.jpg",
+    "uses": [
+      "Culinary Uses: The fruits of the Nerale tree are edible and have a unique sweet and tart flavor, which makes them popular for eating fresh as well as for processing into jellies, wines, and syrups.",
+      "Medicinal Uses: Jamun is particularly noted for its use in traditional medicine for managing diabetes. The fruit, seed powder, and juice are believed to help in regulating blood sugar levels."
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Nooni",
+    "botanicalName": "Morinda citrifolia",
+    "img": "Image/Show/Nooni.jpg",
+    "uses": [
+      "Nutritional Content: The fruit is high in carbohydrates and dietary fiber and provides a good source of protein, vitamin C, iron, potassium, and calcium. However, it's also known for its strong smell and bitter taste when raw, which makes it less appealing as a food source compared to other fruits.",
+      "Medicinal Uses: Noni has been used in traditional Polynesian medicine for over 2,000 years. It is believed to have various health benefits and is used to treat a wide range of ailments including arthritis, diabetes, high blood pressure, muscle aches and pains, menstrual difficulties, headaches, heart disease, AIDS, cancers, gastric ulcers, sprains, mental depression, senility, poor digestion, atherosclerosis, blood vessel problems, and drug addiction."
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Onion",
+    "botanicalName": "Allium cepa",
+    "img": "Image/Show/Onion.jpg",
+    "uses": [
+      "Culinary Uses: Onions are a staple in kitchens around the world. They can be eaten raw, cooked, fried, or baked and are used to add flavor to a vast array of dishes. Onions serve as the base for soups, stews, sauces, and a multitude of other dishes in various cuisines.",
+      "Medicinal Uses: Onions are rich in antioxidants, particularly quercetin, which can help combat inflammation and reduce the risk of chronic diseases such as heart disease and cancer."
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Padri",
+    "botanicalName": "Leucas aspera",
+    "img": "Image/Show/Padri.jpg",
+    "uses": [
+      "Culinary Uses: In some regions, the young shoots and leaves are used as a flavoring in cooking or eaten as a part of traditional salads..",
+      "Medicinal Uses: Leucas aspera is used in various traditional medicine systems, including Ayurveda and Siddha. It is reputed to have antipyretic, expectorant, and anti-inflammatory properties."
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Palak",
+    "botanicalName": "Basella alba",
+    "img": "Image/Show/Palak.jpg",
+    "uses": [
+      "Culinary Uses: Spinach is extremely versatile in the kitchen. It can be eaten raw in salads, steamed, sautéed, or added to soups, stews, and smoothies. It is also a popular ingredient in dishes like omelets, quiches, and pasta.",
+      "Medicinal Uses: Spinach contains high levels of antioxidants, which are important for fighting free radicals in the body, reducing oxidative stress, and potentially lowering the risk of chronic diseases."
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Papaya",
+    "botanicalName": "Carica papaya",
+    "img": "Image/Show/Papaya.jpg",
+    "uses": [
+      "Culinary Uses: The ripe fruit of the papaya is commonly eaten fresh and is valued for its sweet, tropical flavor. It can also be used in fruit salads, smoothies, desserts, and jams.",
+      "Medicinal Uses: Due to the presence of papain, papaya is commonly used to aid digestion and treat digestive issues."
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Parijatha",
+    "botanicalName": "Basella alba",
+    "img": "Image/Show/Parijatha.jpg",
+    "uses": [
+      "Ornamental Uses: The plant is widely cultivated for its beautiful, fragrant flowers, making it a popular choice for gardens and parks. The contrast between its bright orange corolla and the stark white petals is visually striking.",
+      "Medicinal Uses: In traditional Indian medicine, various parts of the Parijatha plant are used. The leaves are believed to have anti-inflammatory, antipyretic (fever-reducing), and hepatoprotective (liver-protecting) properties. They are used in the treatment of sciatica, arthritis, fevers, and as a laxative."
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Pea",
+    "botanicalName": "Pisum sativum",
+    "img": "Image/Show/Pea.jpg",
+    "uses": [
+      "Culinary Uses: Peas are commonly used in a variety of dishes worldwide, ranging from soups and stews to salads and side dishes. Fresh peas are sweet and can also be enjoyed raw.",
+      "Agricultural and Environmental Benefits: Like other legumes, peas have the ability to fix nitrogen in the soil through their root nodules in symbiosis with bacteria. This natural process reduces the need for synthetic fertilizers, enhances soil fertility, and can improve the sustainability of agricultural practices."
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Pepper",
+    "botanicalName": "Capsicum",
+    "img": "Image/Show/Pepper.jpg",
+    "uses": [
+      "Culinary Uses: Black pepper is one of the most widely used spices in the world. Ground black pepper and whole peppercorns are used to flavor a vast range of dishes, from savory to even some sweet dishes.",
+      "Medicinal Uses: Historically, black pepper has been used in traditional medicine to aid digestion, improve appetite, and treat minor ailments like coughs and colds. Piperine, the active compound in black pepper, is known for its anti-inflammatory and antioxidant properties."
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Pomoegranate",
+    "botanicalName": "Punica granatum",
+    "img": "Image/Show/Pomoegranate.jpg",
+    "uses": [
+      "Culinary Uses: The seeds (often referred to as arils) of the pomegranate are edible and have a sweet, tart flavor. They are often eaten fresh, used as garnishes in salads, or pressed for juice.",
+      "Medicinal Uses: Pomegranates are rich in antioxidants, which can help protect the body against free radicals and reduce inflammation."
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Pumpkin",
+    "botanicalName": "Cucurbita pepo",
+    "img": "Image/Show/Pumpkin.jpg",
+    "uses": [
+      "Culinary Uses: The flesh of the pumpkin is widely used in cooking for its sweet flavor and smooth texture. It is commonly used in pies, soups, purees, and bread. Pumpkin can also be roasted, steamed, or sautéed as a vegetable dish.",
+      "Medicinal Uses: Traditional medicine sometimes uses pumpkin seeds to treat parasites and to aid urinary and digestive health due to their high zinc content and diuretic properties."
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Raddish",
+    "botanicalName": "Raphanus sativus",
+    "img": "Image/Show/Raddish.jpg",
+    "uses": [
+      "Culinary Uses: Radishes are commonly eaten raw as a crunchy, spicy addition to salads. The flavor ranges from mildly sweet to sharply peppery depending on the variety.",
+      "Medicinal Uses: Radishes are a good source of fiber, which helps promote regularity in the digestive system."
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Rose",
+    "botanicalName": "Rosa spp",
+    "img": "Image/Show/Rose.jpg",
+    "uses": [
+      "Culinary Uses: Some rose species are edible. Their petals can be used in salads, as garnishes, or to flavor and decorate desserts and confectioneries.",
+      "Medicinal Uses: Roses have been used in traditional medicine for their anti-inflammatory, antibacterial, and astringent properties. Rose oil and rose water are also used in aromatherapy to help relieve stress and promote relaxation."
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Sampige",
+    "botanicalName": "Magnolia champaca",
+    "img": "Image/Show/Sampige.jpg",
+    "uses": [
+      "Fragrance and Aromatherapy: The flowers of Magnolia champaca are renowned for their exquisite fragrance and are widely used in perfumery. One of the most famous uses is in the production of champaca oil which is an essential component in high-end perfumes and aromatic products.",
+      "Medicinal Uses: Traditionally, different parts of the Magnolia champaca tree, including the bark, leaves, and roots, have been used in folk medicine. They are believed to have health benefits, such as anti-inflammatory properties and are used in the treatment of various ailments, although scientific evidence supporting these uses is limited."
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Sapota",
+    "botanicalName": "Manilkara zapota",
+    "img": "Image/Show/Sapota.jpg",
+    "uses": [
+      "Culinary Uses: Sapota fruits are most commonly eaten fresh. The flesh is sweet, grainy, and can be scooped out of the skin easily with a spoon.",
+      "Medicinal Uses: Traditional remedies often use sapota fruit and other parts of the tree for their anti-inflammatory, antiviral, and antimicrobial properties."
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Seethaashoka",
+    "botanicalName": "Saraca asoca",
+    "img": "Image/Show/Seethaashoka.jpg",
+    "uses": [
+      "Ecological Importance: The dense foliage of the Ashoka tree provides ample shade and is beneficial for reducing heat in urban areas. It also offers shelter and habitat for various bird species.",
+      "Medicinal Uses: Saraca asoca is highly valued in Ayurveda for its health benefits, particularly for women. It is renowned for its effectiveness in relieving menstrual pain and helping in conditions like dysmenorrhea and menstrual irregularities."
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Seethapala",
+    "botanicalName": "Annona squamosa",
+    "img": "Image/Show/Seethapala.jpg",
+    "uses": [
+      "Culinary Uses: The fruit of Annona squamosa is highly prized for its sweet, creamy, and custard-like flesh, which can be eaten fresh or used in desserts, smoothies, and other sweet dishes.",
+      "Medicinal Uses: Various parts of the Annona squamosa plant, including the leaves, bark, and seeds, are used in traditional medicine across different cultures. The leaves and bark are often used to make teas or decoctions that can help treat diarrhea, dysentery, and other digestive issues."
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Spinach",
+    "botanicalName": "Spinacia oleracea",
+    "img": "Image/Show/Spinach.jpg",
+    "uses": [
+      "Culinary Uses: Spinach is versatile in the kitchen. It can be eaten raw in salads, steamed, sautéed, or added to soups, pastas, and casseroles. It pairs well with a variety of foods and seasonings.",
+      "Nutritional Value: Spinach is highly nutritious, offering high levels of vitamin A, vitamin C, vitamin K, iron, folate, and calcium. It's also a good source of magnesium, manganese, and vitamins B2 and B6."
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Tamarind",
+    "botanicalName": "Capsicum",
+    "img": "Image/Show/Tamarind.jpg",
+    "uses": [
+      "Culinary Uses: Tamarind pulp is widely used as a flavoring in cooking, especially in Indian, Thai, and Mexican cuisines. It is a key ingredient in dishes such as curries, chutneys, and sauces. The sour taste of tamarind is often used to balance the richness of spices in food.",
+      "Medicinal Uses: Tamarind has been traditionally used to help ease stomach discomfort, aid digestion, and act as a laxative due to its high content of tartaric acid, malic acid, and potassium."
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Taro",
+    "botanicalName": "Colocasia esculenta",
+    "img": "Image/Show/Taro.jpg",
+    "uses": [
+      "Culinary Uses: The corms, which are the underground part of the stem, are the most commonly used part of the taro plant. They are rich in carbohydrates and a good source of dietary fiber, vitamins, and minerals. Taro corms must be cooked before eating, as they contain calcium oxalate, which can be irritating to the mouth and digestive system if ingested raw. Once cooked, they have a texture similar to potatoes and are used in a variety of dishes, such as stews, curries, and soups.",
+      "Medicinal Uses: In traditional medicine, various parts of the taro plant have been used to treat conditions such as digestive problems, arthritis, and skin diseases. The corms are thought to have antiviral properties and have been used to treat fevers and swollen glands."
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Tecoma",
+    "botanicalName": "Tecoma stans",
+    "img": "Image/Show/Tecoma.jpg",
+    "uses": [
+      "Ornamental Uses: Tecoma stans is popularly used in gardens and public landscapes for its vibrant yellow flowers, which bloom from early summer to late fall. Its ability to attract hummingbirds and butterflies makes it valuable for ecological gardens.",
+      "Medicinal Uses: In some cultures, Tecoma stans is used in traditional medicine. It is believed to have antidiabetic properties, and parts of the plant (leaves, flowers, or bark) are used in various forms to treat diabetes and other ailments. However, these uses are more traditional than scientifically validated."
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Thumbe",
+    "botanicalName": "Leucas aspera",
+    "img": "Image/Show/Thumbe.jpg",
+    "uses": [
+      "Agricultural Uses: Due to its insecticidal properties, the plant can be used in agricultural settings to naturally control pests.",
+      "Medicinal Uses: Thumbe has been used in traditional medicine systems such as Ayurveda for various treatments. It is believed to have antipyretic (fever-reducing) properties and is used to treat fevers, coughs, colds, and other respiratory ailments."
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Tomato",
+    "botanicalName": "Solanum lycopersicum",
+    "img": "Image/Show/Tomato.jpg",
+    "uses": [
+      "Culinary Uses: Tomatoes are a staple in cuisines worldwide. They can be eaten raw in salads, cooked in sauces, soups, and stews, or processed into products like tomato paste, ketchup, and juice.",
+      "Medicinal Uses: Regular consumption of tomatoes and tomato-based products has been associated with improved skin health, reduced blood pressure, and a lower risk of certain cancers, particularly prostate cancer."
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Tulsi",
+    "botanicalName": "Ocimum tenuiflorum",
+    "img": "Image/Show/Tulsi.jpg",
+    "uses": [
+      "Culinary Uses: Although not as commonly used in cooking as other types of basil, Tulsi leaves can be used to make herbal teas or added to dishes for a flavor similar to cloves.",
+      "Medicinal Uses: Tulsi is known as an adaptogen, which means it helps the body adapt to stress and promotes mental balance."
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Turmeric",
+    "botanicalName": "Curcuma longa",
+    "img": "Image/Show/Turmeric.jpg",
+    "uses": [
+      "Cosmetic Uses: Turmeric is used in various skin care products for its potential to improve skin health. It is believed to treat acne, reduce blemishes, and give the skin a natural glow. Homemade face masks often include turmeric for its anti-inflammatory and antibacterial properties.",
+      "Medicinal Uses: Turmeric contains curcumin, a compound with potent anti-inflammatory and antioxidant properties. This makes turmeric a popular supplement for managing inflammatory conditions, such as arthritis."
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Camphor",
+    "botanicalName": "Cinnamomum camphora",
+    "img": "Image/Show/Camphor.jpg",
+    "uses": [
+      "Aromatic and Religious Uses: Camphor is used in aromatherapy for its strong, penetrating aroma, which is believed to be invigorating and soothing for the spirit.",
+      "Medicinal Uses: Camphor is widely used in topical analgesic creams, ointments, and lotions to relieve pain and reduce itching. It produces a cooling sensation, similar to menthol, which helps to soothe muscle aches and sprains."
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Kamakasturi",
+    "botanicalName": "Ocimum basilicum",
+    "img": "Image/Show/Kamakasturi.jpg",
+    "uses": [
+      "Aromatic and Religious Uses: The aromatic oils in Kamakasturi basil can be used in aromatherapy to enhance relaxation and alleviate stress.",
+      "Medicinal Uses: Like many varieties of basil, Kamakasturi is believed to aid in digestion and can be used to settle stomach upsets."
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Arali",
+    "botanicalName": "Aralia",
+    "img": "Image/Show/Arali.png",
+    "uses": [
+      "Ornamental Purposes: Many Aralia species are cultivated as ornamental plants due to their attractive foliage and sometimes flowers. They are popular choices for gardens, indoor decorations, and landscaping.",
+      "Medicinal Uses: Some Aralia species have been used in traditional medicine systems. For example, Aralia racemosa, also known as American spikenard, has been used in Native American traditional medicine for various purposes, including as a treatment for coughs, colds, and other respiratory ailments."
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Astma weed ",
+    "botanicalName": "Chenopodium album",
+    "img": "Image/Show/Astma weed.jpg",
+    "uses": [
+      "Traditional Uses: In traditional herbal medicine, various parts of the plant were used to treat a range of ailments, including asthma, coughs, diarrhea, and rheumatism.",
+      "Culinary Uses: Lamb's quarters can be cooked and eaten in various ways, such as sautéed, steamed, or added to salads and soups. It has a flavor reminiscent of spinach or other leafy greens."
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Ashoka",
+    "botanicalName": "Saraca asoca",
+    "img": "Image/Show/Ashoka.jpg",
+    "uses": [
+      "Medicinal Uses: Various parts of the Ashoka tree, including the bark, leaves, and flowers, have been used in traditional Ayurvedic medicine for their medicinal properties. It's believed to have astringent, anti-inflammatory, and uterine-stimulant properties and has been used to treat conditions such as dysmenorrhea, menorrhagia, and other gynecological issues.",
+      "Ornamental Purposes: Due to its attractive foliage and fragrant flowers, Ashoka is also cultivated as an ornamental tree in gardens and parks in tropical and subtropical regions."
+    ]
+  }
+]
